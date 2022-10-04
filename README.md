@@ -1,2 +1,1 @@
-# Get-Mean-on-ti-84-
-get mean from list 1 on the ti 84 plus models
+this program in in ti basic and has been tested on the ti 84 plus ce
